@@ -134,10 +134,8 @@ mern-blog-app/
 ---
 
 ## **Contributing**
-Contributions are welcome! Please fork the repository and submit a pull request.
+Contributions are welcome! Please fork the repository and submit a pull all request.
 
 ---
-
-
 
 **Happy coding! 🚀**
